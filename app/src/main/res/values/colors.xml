@@ -25,7 +25,8 @@
     <color name="cyan_200">#00FFFF</color>
     <color name="cyan_500">#47D3FF</color>
     <color name="cyan_700">#00B7EB</color>
-    <color name="blue">#0000FF</color>
+    <color name="blue_200">#5161f9</color>
+    <color name="blue_500">#0000FF</color>
     <color name="brown">#964B00</color>
     <color name="orange_200">#ffaf7a</color>
     <color name="orange_400">#ff8b3d</color>
