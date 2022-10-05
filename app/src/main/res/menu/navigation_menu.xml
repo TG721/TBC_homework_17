@@ -18,13 +18,13 @@
         android:title="@string/kalendar"
         android:icon="@drawable/ic_sticky_note_1"/>
     <item
-        android:id="@+id/menuPengaturan"
-        android:title="@string/pengaturan"
-        android:icon="@drawable/ic_settings"/>
-    <item
         android:id="@+id/menuStatistik"
         android:title="@string/Statistik"
         android:icon="@drawable/ic_stats"/>
+    <item
+        android:id="@+id/menuPengaturan"
+        android:title="@string/pengaturan"
+        android:icon="@drawable/ic_settings"/>
     <item
     android:title="">
         <menu>
