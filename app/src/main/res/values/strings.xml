@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation_drawer_homework</string>
+    <string name="hamburger_menu_button">hamburger menu button</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="pesan">Pesan</string>
+    <string name="notikasi">Notikasi</string>
+    <string name="pengaturan">Pengaturan</string>
+    <string name="Statistik">Statistik</string>
+    <string name="kalendar">Kalendar</string>
+    <string name="gandi_mode_gelap">Gandi Mode Gelap</string>
+</resources>
